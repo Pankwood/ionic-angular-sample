@@ -1,0 +1,617 @@
+{
+"DetalhesDoPacoteResult": [
+{
+"CHDApto": "0",
+"CHDAptoIdade": "0",
+"CiaAerea": "",
+"CidadeDeSaida": [
+{
+"Cidade": "FOZ DO IGUACU",
+"Cod_Cidade": "377"
+}
+],
+"CidadesDoPacote": [
+{
+"Cidade": "Foz Do Iguacu",
+"Cod_Cidade": "377"
+}
+],
+"CodFornecedorFC": "TAV",
+"CodMoeda": "R$",
+"CodTorre": "8",
+"Cod_Continente": "1",
+"Cod_Pais": "1",
+"DescFoto": "Foz do Iguaçu",
+"DescricaoDeSaida": [
+{
+"Descricao": "24 de março de 2016",
+"ID": "86260",
+"Titulo": "SAÍDAS     "
+},
+{
+"Descricao": "21 de abril de 2016",
+"ID": "86260",
+"Titulo": "SAÍDAS     "
+},
+{
+"Descricao": "26 de maio de 2016",
+"ID": "86260",
+"Titulo": "SAÍDAS     "
+},
+{
+"Descricao": "Páscoa\t\t\t\t",
+"ID": "86260",
+"Titulo": "SAÍDAS       "
+},
+{
+"Descricao": "Tiradentes\t\t\t\t",
+"ID": "86260",
+"Titulo": "SAÍDAS     "
+},
+{
+"Descricao": "Corpus Christi\t\t\t\t",
+"ID": "86260",
+"Titulo": "SAÍDAS     "
+}
+],
+"DescricaoDoGrupo": null,
+"Destaque": "",
+"DestaqueHotel": "",
+"Dias": "4",
+"Disponibilidade": null,
+"Excecao": null,
+"FiltroCategoria": [
+{
+"Descricao": " Todas",
+"ID": "0"
+},
+{
+"Descricao": "3*",
+"ID": "86260"
+},
+{
+"Descricao": "4*",
+"ID": "86260"
+},
+{
+"Descricao": "5*",
+"ID": "86260"
+}
+],
+"FiltroHotel": [
+{
+"Descricao": " Todos os Hotéis",
+"ID": "0"
+},
+{
+"Descricao": "Best Western Tarobá Hotel",
+"ID": "86260"
+},
+{
+"Descricao": "Iguassu Express Hotel",
+"ID": "86260"
+},
+{
+"Descricao": "Rafain Palace Hotel e Convention  Center",
+"ID": "86260"
+},
+{
+"Descricao": "Recanto Cataratas - Thermas, Resort e Convention",
+"ID": "86260"
+},
+{
+"Descricao": "Wish Resort Golf Convention Foz do Iguaçú",
+"ID": "86260"
+}
+],
+"Hotel": null,
+"ID": "86260",
+"Inclui": [
+{
+"Descricao": "Traslados de chegada e saída (aeroporto/hotel/aeroporto ) - serviço regular  ",
+"ID": "86260"
+},
+{
+"Descricao": "03 Noites de hospedagem no hotel escolhido com regime correspondente  ",
+"ID": "86260"
+},
+{
+"Descricao": "Cataratas brasileira sem ingresso + Hidrelétrica de Itaipu visita Panorâmica sem ingresso.  ",
+"ID": "86260"
+}
+],
+"InfoDoPacote": null,
+"Noites": "3",
+"Nome": "Foz do Iguaçu - Feriados 1º Semestre 2016",
+"NomeCiaAerea": "",
+"NomeSite": "Foz do Iguaçu - Feriados 1º Semestre 2016",
+"ObservacaoDeValores": null,
+"ObservacaoDoPacote": [
+{
+"Descricao": "Valores calculados \"á partir de\", por pessoa, sujeito a alteração de tarifa e disponibilidade sem prévio aviso\t\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Valores informados são válidos somente para parte terrestre, não incloui parte aérea\t\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Política de criança: os valores informados são válidos para criançpas de 00 a 05 anos hospedado no mesmo apartamento duplo com os responsáveis pagantes. Uma criança por apartamento.\t\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "POLÍTICA DE CRIANÇA    "
+},
+{
+"Descricao": "Valores informados válidos apenas para os feriados citados no pacote\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Extras, taxas locais, passeios, bebidas, ingressos - exceto quando estão mencionados no roteiro\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "NÃO INCLUI    "
+},
+{
+"Descricao": "Oferta válida por tempo limitado ou enquanto houver disponibilidade das tarifas anunciadas.\t\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Consulte-nos outras opções de hoteis, serviços e parte áerea com saída de todo Brasil\r\n",
+"ID": "86260",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Reservamo-nos o direito de corrigir possíveis erros de digitação.\t\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Uma criança de 0 a 05 anos incompletos dividindo o apartamento com 02 adultos.\t\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "POLÍTICA DE CRIANÇA    "
+},
+{
+"Descricao": "Todas as tarifas mencionadas são por pessoa em Reais\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Consulte as formas de pagamentos vigentes\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Menores de 18 anos deverão estar acompanhados dos pais ou responsável legal e no momento do check-in será exigido a apresentação do RG e/ou Certidão de Nascimento\t\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Sujeito a disponibilidade\t\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "TARIFAS SUJEITAS A ALTERAÇÃO SEM PRÉVIO AVISO\t\t\t\t\t\r\n",
+"ID": "86260",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Parque das Aves - IMPORTANTE: Extensão das Cataratas Brasileiras ou PRIVATIVO\r\n",
+"ID": "86260",
+"Titulo": "DICAS DE PASSEIOS OPCIONAIS   "
+},
+{
+"Descricao": "Macuco Safari - IMPORTANTE: Extensão das Cataratas Brasileiras ou PRIVATIVO\r\n",
+"ID": "86260",
+"Titulo": "DICAS DE PASSEIOS OPCIONAIS   "
+},
+{
+"Descricao": "Cataratas Argentina (Sem ingresso)\r\n",
+"ID": "86260",
+"Titulo": "DICAS DE PASSEIOS OPCIONAIS   "
+},
+{
+"Descricao": "Tour de compras no Duty Free Shop + compras na Argentina\r\n",
+"ID": "86260",
+"Titulo": "DICAS DE PASSEIOS OPCIONAIS   "
+},
+{
+"Descricao": "Depois de passar o dia conhecendo As maravilhas de Foz do Iguaçú, que tal conhecer a vida noturna da Cidade? \r\n",
+"ID": "86260",
+"Titulo": "DICAS NOTURNAS     "
+},
+{
+"Descricao": "Iporã Lenda Show - Espetáculo que mescla dança, música e muitas cores, uma viagem musical que conta a lenda das Cataratas do Iguaçu e depois viajam por diversos países da América do Sul até voltar ao Brasil - Segunda á Sábado ás 22h.\r\n",
+"ID": "86260",
+"Titulo": "DICAS NOTURNAS     "
+},
+{
+"Descricao": "Show da Churrascaria Rafain - apresenta diariamente um espetáculo de música e dança que mescla o folclore dos países da fronteira Brasi, Paraguai e Argentina entre outros - Diário á partir das 20h45.\r\n",
+"ID": "86260",
+"Titulo": "DICAS NOTURNAS     "
+},
+{
+"Descricao": "Oba-Oba Bottega Samba Show - samba, Carnaval e cultura afro-brasiliera á moda carioca - Segunda á Sábado ás 20h.\r\n",
+"ID": "86260",
+"Titulo": "DICAS NOTURNAS     "
+},
+{
+"Descricao": "Zeppelin Old Bar - Rock ´n´roll, jazz, blues ou MPB. Cervejas e Petiscos em atmosfera Vintage - Terça a Sábado á partir das 20h30.\r\n",
+"ID": "86260",
+"Titulo": "DICAS NOTURNAS     "
+},
+{
+"Descricao": "Wood´s Bar - música sertaneja ao vivo - ás Sextas e Sábados á partir das 23h.\r\n",
+"ID": "86260",
+"Titulo": "DICAS NOTURNAS     "
+},
+{
+"Descricao": "Acategoria do apartamento triplo do Rafain Palace Hotel & Convention é LUXO",
+"ID": "86260",
+"Titulo": "IMPORTANTE    "
+},
+{
+"Descricao": "O Rafain Palace Hotel & Convention trabalha com o regime de café da manhã na baixa temporada e nos feriados somente com regime de MEIA PENSÃO",
+"ID": "86260",
+"Titulo": "IMPORTANTE    "
+},
+{
+"Descricao": "Tour Nova Petropolis e compras: Segundas, quintas e sábados (saída do hotel aproximadamente as 8h e retorno para o hotel ás 18h)",
+"ID": "86260",
+"Titulo": "IMPORTANTE    "
+},
+{
+"Descricao": "Tour do Vale dos Vinhedos com almoço: Quartas, sextas, sábados e domingos  (saída do hotel aproximadamente as 7h e retorno para o hotel ás 20h)",
+"ID": "86260",
+"Titulo": "IMPORTANTE    "
+},
+{
+"Descricao": "Tiket Bustour: Frequência diária",
+"ID": "86260",
+"Titulo": "IMPORTANTE    "
+},
+{
+"Descricao": "O serviço Opcional de Maria Fumaça só é possível ser realizado junto com o Tour dos Vinhos - Favor consultar preço e disponibilidade.",
+"ID": "86260",
+"Titulo": "IMPORTANTE    "
+}
+],
+"Opcional": null,
+"OpcionalItens": null,
+"Prime": "0",
+"RefFC": "004.14.01.16-1619",
+"Rota": null,
+"Roteiro": [
+{
+"Descricao": "CIDADE DE ORIGEM/FOZ DO IGUAÇU",
+"Dia": "1",
+"ID": "86260",
+"Titulo": "Apresentação no Aeroporto de origem para embarque com destino a  Foz do Iguaçu. Chegada, recepção no aeroporto e traslado ao hotel. Hospedagem e restante do dia livre.\t\t\t\t\t  "
+},
+{
+"Descricao": "FOZ DO IGUAÇU",
+"Dia": "2",
+"ID": "86260",
+"Titulo": "Café da manhã no hotel. Saída  para realização dos passeios contratados conforme horáario programado pelo receptivo local. Após passeio retorno para o hotel e restante do dia livre para desfrute do hotel, passeios opcionais sugeridos pelo receptivo local (não incluídos na viagem) compras ou atividades pessoais.\t\t\t\t\t  "
+},
+{
+"Descricao": "FOZ DO IGUAÇU",
+"Dia": "3",
+"ID": "86260",
+"Titulo": "Café da manhã no hotel e dias livres para desfrute do hotel, passeios opcionais sugeridos pelo receptivo local (não incluídos na viagem) compras ou atividades pessoais.\t\t\t\t\t  "
+},
+{
+"Descricao": "FOZ DO IGUAÇU/CIDADE DE ORIGEM",
+"Dia": "4",
+"ID": "86260",
+"Titulo": "Café da manhã no hotel e em horário programado embarque para o aeroporto com destino a sua cidade de origem. \t\t\t\t\t  "
+}
+],
+"Tematico": [
+{
+"CodTematico": "195",
+"CodTorre": "8",
+"ID": "86260",
+"Nome": "Páscoa"
+},
+{
+"CodTematico": "196",
+"CodTorre": "8",
+"ID": "86260",
+"Nome": "Corpus Christi"
+},
+{
+"CodTematico": "160",
+"CodTorre": "8",
+"ID": "86260",
+"Nome": "Feriados primeiro semestre"
+},
+{
+"CodTematico": "371",
+"CodTorre": "8",
+"ID": "86260",
+"Nome": "Natureza e conforto"
+}
+],
+"TipoAptoDefault": "DBL",
+"TipoFicha": "R",
+"TipoPacoteAer": "1",
+"URLFoto": "http://pacotes.mmtgapnet.com.br/sw/images/Pacotes/AmericaSul/FOZ-DO-IGUAÇU_SUL_01.JPG",
+"Validade": "29/05/2016",
+"Valor": [
+{
+"AdCHD1": "",
+"AdCHD1BRL": "",
+"AdCHD2": "",
+"AdCHD2BRL": "",
+"Categoria": "3*",
+"CodMoedaTot": "R$",
+"Cod_Cidade": "377",
+"DataFinalVal": "29/05/2016",
+"DataInicialVal": "26/09/2016",
+"Desconto": "0.0000",
+"Disponibilidade": null,
+"HotelFc": "Iguassu Express Hotel",
+"ID": "86260",
+"ImpostoCHD1": null,
+"ImpostoCHD1BRL": null,
+"ImpostoCHD2": null,
+"ImpostoCHD2BRL": null,
+"ImpostoDBL": null,
+"ImpostoDBLBRL": null,
+"ImpostoQDL": null,
+"ImpostoQDLBRL": null,
+"ImpostoSGL": null,
+"ImpostoSGLBRL": null,
+"ImpostoTPL": null,
+"ImpostoTPLBRL": null,
+"Impostos": null,
+"Item_ID": "1961216",
+"ObsValor": "",
+"Regime": "Standard",
+"Taxas": "0",
+"TaxasBRL": "0",
+"TipoAptoFT": "Café da manhã",
+"ValCHD1": "0",
+"ValCHD1BRL": "0",
+"ValCHD2": "",
+"ValCHD2BRL": "",
+"ValNoiteExDBL": "70",
+"ValNoiteExDBLBRL": "70",
+"ValNoiteExQDL": "0",
+"ValNoiteExQDLBRL": "0",
+"ValNoiteExSGL": "111",
+"ValNoiteExSGLBRL": "111",
+"ValNoiteExTPL": "59",
+"ValNoiteExTPLBRL": "59",
+"ValTarifaDBL": "378",
+"ValTarifaDBLBRL": "378",
+"ValTarifaQDL": "0",
+"ValTarifaQDLBRL": "0",
+"ValTarifaSGL": "482",
+"ValTarifaSGLBRL": "482",
+"ValTarifaTPL": "347",
+"ValTarifaTPLBRL": "347"
+},
+{
+"AdCHD1": "",
+"AdCHD1BRL": "",
+"AdCHD2": "",
+"AdCHD2BRL": "",
+"Categoria": "3*",
+"CodMoedaTot": "R$",
+"Cod_Cidade": "377",
+"DataFinalVal": "29/05/2016",
+"DataInicialVal": "26/09/2016",
+"Desconto": "0.0000",
+"Disponibilidade": null,
+"HotelFc": "Best Western Tarobá Hotel",
+"ID": "86260",
+"ImpostoCHD1": null,
+"ImpostoCHD1BRL": null,
+"ImpostoCHD2": null,
+"ImpostoCHD2BRL": null,
+"ImpostoDBL": null,
+"ImpostoDBLBRL": null,
+"ImpostoQDL": null,
+"ImpostoQDLBRL": null,
+"ImpostoSGL": null,
+"ImpostoSGLBRL": null,
+"ImpostoTPL": null,
+"ImpostoTPLBRL": null,
+"Impostos": null,
+"Item_ID": "1961219",
+"ObsValor": "",
+"Regime": "Standard",
+"Taxas": "0",
+"TaxasBRL": "0",
+"TipoAptoFT": "Café da manhã",
+"ValCHD1": "0",
+"ValCHD1BRL": "0",
+"ValCHD2": "",
+"ValCHD2BRL": "",
+"ValNoiteExDBL": "226",
+"ValNoiteExDBLBRL": "226",
+"ValNoiteExQDL": "0",
+"ValNoiteExQDLBRL": "0",
+"ValNoiteExSGL": "299",
+"ValNoiteExSGLBRL": "299",
+"ValNoiteExTPL": "184",
+"ValNoiteExTPLBRL": "184",
+"ValTarifaDBL": "816",
+"ValTarifaDBLBRL": "816",
+"ValTarifaQDL": "0",
+"ValTarifaQDLBRL": "0",
+"ValTarifaSGL": "1055",
+"ValTarifaSGLBRL": "1055",
+"ValTarifaTPL": "701",
+"ValTarifaTPLBRL": "701"
+},
+{
+"AdCHD1": "",
+"AdCHD1BRL": "",
+"AdCHD2": "",
+"AdCHD2BRL": "",
+"Categoria": "5*",
+"CodMoedaTot": "R$",
+"Cod_Cidade": "377",
+"DataFinalVal": "29/05/2016",
+"DataInicialVal": "26/09/2016",
+"Desconto": "0.0000",
+"Disponibilidade": null,
+"HotelFc": "Rafain Palace Hotel e Convention  Center",
+"ID": "86260",
+"ImpostoCHD1": null,
+"ImpostoCHD1BRL": null,
+"ImpostoCHD2": null,
+"ImpostoCHD2BRL": null,
+"ImpostoDBL": null,
+"ImpostoDBLBRL": null,
+"ImpostoQDL": null,
+"ImpostoQDLBRL": null,
+"ImpostoSGL": null,
+"ImpostoSGLBRL": null,
+"ImpostoTPL": null,
+"ImpostoTPLBRL": null,
+"Impostos": null,
+"Item_ID": "1961222",
+"ObsValor": "",
+"Regime": "Standard",
+"Taxas": "0",
+"TaxasBRL": "0",
+"TipoAptoFT": "Meia pensão",
+"ValCHD1": "0",
+"ValCHD1BRL": "0",
+"ValCHD2": "",
+"ValCHD2BRL": "",
+"ValNoiteExDBL": "216",
+"ValNoiteExDBLBRL": "216",
+"ValNoiteExQDL": "0",
+"ValNoiteExQDLBRL": "0",
+"ValNoiteExSGL": "361",
+"ValNoiteExSGLBRL": "361",
+"ValNoiteExTPL": "226",
+"ValNoiteExTPLBRL": "226",
+"ValTarifaDBL": "795",
+"ValTarifaDBLBRL": "795",
+"ValTarifaQDL": "0",
+"ValTarifaQDLBRL": "0",
+"ValTarifaSGL": "1243",
+"ValTarifaSGLBRL": "1243",
+"ValTarifaTPL": "826",
+"ValTarifaTPLBRL": "826"
+},
+{
+"AdCHD1": "",
+"AdCHD1BRL": "",
+"AdCHD2": "",
+"AdCHD2BRL": "",
+"Categoria": "4*",
+"CodMoedaTot": "R$",
+"Cod_Cidade": "377",
+"DataFinalVal": "29/05/2016",
+"DataInicialVal": "26/09/2016",
+"Desconto": "0.0000",
+"Disponibilidade": null,
+"HotelFc": "Recanto Cataratas - Thermas, Resort e Convention",
+"ID": "86260",
+"ImpostoCHD1": null,
+"ImpostoCHD1BRL": null,
+"ImpostoCHD2": null,
+"ImpostoCHD2BRL": null,
+"ImpostoDBL": null,
+"ImpostoDBLBRL": null,
+"ImpostoQDL": null,
+"ImpostoQDLBRL": null,
+"ImpostoSGL": null,
+"ImpostoSGLBRL": null,
+"ImpostoTPL": null,
+"ImpostoTPLBRL": null,
+"Impostos": null,
+"Item_ID": "1961225",
+"ObsValor": "",
+"Regime": "Standard",
+"Taxas": "0",
+"TaxasBRL": "0",
+"TipoAptoFT": "Café da manhã",
+"ValCHD1": "0",
+"ValCHD1BRL": "0",
+"ValCHD2": "",
+"ValCHD2BRL": "",
+"ValNoiteExDBL": "455",
+"ValNoiteExDBLBRL": "455",
+"ValNoiteExQDL": "0",
+"ValNoiteExQDLBRL": "0",
+"ValNoiteExSGL": "851",
+"ValNoiteExSGLBRL": "851",
+"ValNoiteExTPL": "424",
+"ValNoiteExTPLBRL": "424",
+"ValTarifaDBL": "1524",
+"ValTarifaDBLBRL": "1524",
+"ValTarifaQDL": "0",
+"ValTarifaQDLBRL": "0",
+"ValTarifaSGL": "2701",
+"ValTarifaSGLBRL": "2701",
+"ValTarifaTPL": "1420",
+"ValTarifaTPLBRL": "1420"
+},
+{
+"AdCHD1": "",
+"AdCHD1BRL": "",
+"AdCHD2": "",
+"AdCHD2BRL": "",
+"Categoria": "5*",
+"CodMoedaTot": "R$",
+"Cod_Cidade": "377",
+"DataFinalVal": "29/05/2016",
+"DataInicialVal": "26/09/2016",
+"Desconto": "0.0000",
+"Disponibilidade": null,
+"HotelFc": "Wish Resort Golf Convention Foz do Iguaçú",
+"ID": "86260",
+"ImpostoCHD1": null,
+"ImpostoCHD1BRL": null,
+"ImpostoCHD2": null,
+"ImpostoCHD2BRL": null,
+"ImpostoDBL": null,
+"ImpostoDBLBRL": null,
+"ImpostoQDL": null,
+"ImpostoQDLBRL": null,
+"ImpostoSGL": null,
+"ImpostoSGLBRL": null,
+"ImpostoTPL": null,
+"ImpostoTPLBRL": null,
+"Impostos": null,
+"Item_ID": "1961228",
+"ObsValor": "",
+"Regime": "Superior",
+"Taxas": "0",
+"TaxasBRL": "0",
+"TipoAptoFT": "Café da manhã",
+"ValCHD1": "0",
+"ValCHD1BRL": "0",
+"ValCHD2": "",
+"ValCHD2BRL": "",
+"ValNoiteExDBL": "466",
+"ValNoiteExDBLBRL": "466",
+"ValNoiteExQDL": "0",
+"ValNoiteExQDLBRL": "0",
+"ValNoiteExSGL": "778",
+"ValNoiteExSGLBRL": "778",
+"ValNoiteExTPL": "0",
+"ValNoiteExTPLBRL": "0",
+"ValTarifaDBL": "1534",
+"ValTarifaDBLBRL": "1534",
+"ValTarifaQDL": "0",
+"ValTarifaQDLBRL": "0",
+"ValTarifaSGL": "2472",
+"ValTarifaSGLBRL": "2472",
+"ValTarifaTPL": "0",
+"ValTarifaTPLBRL": "0"
+}
+]
+}
+]
+}

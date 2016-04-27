@@ -1,0 +1,372 @@
+{
+"DetalhesDoPacoteResult": [
+{
+"CHDApto": "0",
+"CHDAptoIdade": "0",
+"CiaAerea": "",
+"CidadeDeSaida": [
+{
+"Cidade": "LISBOA",
+"Cod_Cidade": "498"
+}
+],
+"CidadesDoPacote": [
+{
+"Cidade": "Lisboa",
+"Cod_Cidade": "498"
+}
+],
+"CodFornecedorFC": "TAV",
+"CodMoeda": "EUR",
+"CodTorre": "4",
+"Cod_Continente": "4",
+"Cod_Pais": "12",
+"DescFoto": "Lisboa",
+"DescricaoDeSaida": [
+{
+"Descricao": "PREÇOS VÁLIDOS DE:  01 de Março a a 29 Maio de 2016 *",
+"ID": "54802",
+"Titulo": "RESERVAS ATÉ: 10/05/2016"
+}
+],
+"DescricaoDoGrupo": null,
+"Destaque": "RESERVAS ATÉ: 10/05/2016 - PREÇOS VÁLIDOS DE:  01 DE MARÇO A A 29 MAIO DE 2016 ",
+"DestaqueHotel": "",
+"Dias": "4",
+"Disponibilidade": null,
+"Excecao": null,
+"FiltroCategoria": [
+{
+"Descricao": " Todas",
+"ID": "0"
+},
+{
+"Descricao": "3*",
+"ID": "54802"
+},
+{
+"Descricao": "4*",
+"ID": "54802"
+},
+{
+"Descricao": "5*",
+"ID": "54802"
+}
+],
+"FiltroHotel": [
+{
+"Descricao": " Todos os Hotéis",
+"ID": "0"
+},
+{
+"Descricao": "Dom Pedro Palace ",
+"ID": "54802"
+},
+{
+"Descricao": "Exe Lisboa Parque",
+"ID": "54802"
+},
+{
+"Descricao": "Sana Executive ",
+"ID": "54802"
+}
+],
+"Hotel": null,
+"ID": "54802",
+"Inclui": [
+{
+"Descricao": "Traslados privativos de chegada e saida  em Lisboa  ",
+"ID": "54802"
+},
+{
+"Descricao": "03 noites de hospedagem em Lisboa, no Hotel escolhido ou similar   ",
+"ID": "54802"
+},
+{
+"Descricao": "Café da manhã e taxas   ",
+"ID": "54802"
+},
+{
+"Descricao": "Ingresso de 01 dia no Rock in Rio, de acordo com a data escolhida  ",
+"ID": "54802"
+},
+{
+"Descricao": "Visita regular de meio dia de Lisboa  ",
+"ID": "54802"
+},
+{
+"Descricao": "Bolsa de viagem MMTGAPNET   ",
+"ID": "54802"
+}
+],
+"InfoDoPacote": null,
+"Noites": "3",
+"Nome": "Rock In Rio em Lisboa ",
+"NomeCiaAerea": "",
+"NomeSite": "Rock In Rio em Lisboa ",
+"ObservacaoDeValores": [
+{
+"Descricao": "OPCIONAL: VALOR DO INGRESSO EXTRA - EUR 89 - POR PESSOA",
+"ID": "54802"
+}
+],
+"ObservacaoDoPacote": [
+{
+"Descricao": "RESERVAS ATÉ: 10/05/2016\r\n",
+"ID": "54802",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "PREÇOS VÁLIDOS DE:  01 de Março a a 29 Maio de 2016 *\r\n",
+"ID": "54802",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "OBS.: Os traslados são válids somente para horários diurnos (07h00 / 20h59)\r\n",
+"ID": "54802",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Tarifas mencionadas por pessoa em EUROS",
+"ID": "54802",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "No Hotel Sana Executive, é obrigatória a estadia de no mínimo 03, além de coincidir 02 noites durante as datas de realização do Rock in Rio Lisboa, ou seja, 19, 20, 27, 28 ou 29 de Maio de 2016\r\n",
+"ID": "54802",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Após o pagamento e emissão do ingresso, o mesmo não poderá ser alterado ou reembolsado.\r\n",
+"ID": "54802",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Todos os valores foram calculados no Apto Tipo Standard de cada Hotel, com suas devidas configurações. \r\n",
+"ID": "54802",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Os Aptos Triplos são sempre com cama extra (sofa cama ou cama de armar), ou seja, não são muito confortáveis. \r\n",
+"ID": "54802",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Consulte formas de pagamento parcelado sem juros.\r\n",
+"ID": "54802",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Acréscimos SERÃO aplicados durante convenções, eventos, feriados e Reveillon. Além disso, normalmente os hotéis exigem mínimo de permanência em alguns períodos.\t\t\t\t\t\t\t\t\r\n",
+"ID": "54802",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+},
+{
+"Descricao": "Não inclui Bilhete aéreo, Seguro viagem, Taxas de Embarque Nacionais, Internacionais e de Segurança. Além da taxa de combustível.\r\n",
+"ID": "54802",
+"Titulo": "NÃO INCLUI    "
+},
+{
+"Descricao": "Sujeito à disponibilidade e alteração sem prévio aviso.\r\n",
+"ID": "54802",
+"Titulo": "OBSERVAÇÕES GERAIS     "
+}
+],
+"Opcional": null,
+"OpcionalItens": null,
+"Prime": "0",
+"RefFC": "007.22.03.16-1619",
+"Rota": null,
+"Roteiro": null,
+"Tematico": [
+{
+"CodTematico": "44",
+"CodTorre": "4",
+"ID": "54802",
+"Nome": "City Packages"
+},
+{
+"CodTematico": "283",
+"CodTorre": "4",
+"ID": "54802",
+"Nome": "Shows"
+},
+{
+"CodTematico": "464",
+"CodTorre": "4",
+"ID": "54802",
+"Nome": "Rock in Rio 2016"
+}
+],
+"TipoAptoDefault": "DBL",
+"TipoFicha": "R",
+"TipoPacoteAer": "1",
+"URLFoto": "http://pacotes.mmtgapnet.com.br/sw/images/Pacotes/Europa/LISBOA5.JPG",
+"Validade": "29/05/2016",
+"Valor": [
+{
+"AdCHD1": "",
+"AdCHD1BRL": "",
+"AdCHD2": "",
+"AdCHD2BRL": "",
+"Categoria": "3*",
+"CodMoedaTot": "EUR",
+"Cod_Cidade": "498",
+"DataFinalVal": "28/05/2016",
+"DataInicialVal": "17/05/2016",
+"Desconto": "0.0000",
+"Disponibilidade": null,
+"HotelFc": "Sana Executive ",
+"ID": "54802",
+"ImpostoCHD1": null,
+"ImpostoCHD1BRL": null,
+"ImpostoCHD2": null,
+"ImpostoCHD2BRL": null,
+"ImpostoDBL": null,
+"ImpostoDBLBRL": null,
+"ImpostoQDL": null,
+"ImpostoQDLBRL": null,
+"ImpostoSGL": null,
+"ImpostoSGLBRL": null,
+"ImpostoTPL": null,
+"ImpostoTPLBRL": null,
+"Impostos": null,
+"Item_ID": "2157321",
+"ObsValor": "",
+"Regime": "BB",
+"Taxas": "0",
+"TaxasBRL": "0",
+"TipoAptoFT": "STD",
+"ValCHD1": "",
+"ValCHD1BRL": "",
+"ValCHD2": "",
+"ValCHD2BRL": "",
+"ValNoiteExDBL": "72",
+"ValNoiteExDBLBRL": "303",
+"ValNoiteExQDL": "",
+"ValNoiteExQDLBRL": "",
+"ValNoiteExSGL": "131",
+"ValNoiteExSGLBRL": "552",
+"ValNoiteExTPL": "65",
+"ValNoiteExTPLBRL": "274",
+"ValTarifaDBL": "412",
+"ValTarifaDBLBRL": "1735",
+"ValTarifaQDL": "",
+"ValTarifaQDLBRL": "",
+"ValTarifaSGL": "640",
+"ValTarifaSGLBRL": "2694",
+"ValTarifaTPL": "391",
+"ValTarifaTPLBRL": "1646"
+},
+{
+"AdCHD1": "",
+"AdCHD1BRL": "",
+"AdCHD2": "",
+"AdCHD2BRL": "",
+"Categoria": "4*",
+"CodMoedaTot": "EUR",
+"Cod_Cidade": "498",
+"DataFinalVal": "29/05/2016",
+"DataInicialVal": "16/05/2016",
+"Desconto": "0.0000",
+"Disponibilidade": null,
+"HotelFc": "Exe Lisboa Parque",
+"ID": "54802",
+"ImpostoCHD1": null,
+"ImpostoCHD1BRL": null,
+"ImpostoCHD2": null,
+"ImpostoCHD2BRL": null,
+"ImpostoDBL": null,
+"ImpostoDBLBRL": null,
+"ImpostoQDL": null,
+"ImpostoQDLBRL": null,
+"ImpostoSGL": null,
+"ImpostoSGLBRL": null,
+"ImpostoTPL": null,
+"ImpostoTPLBRL": null,
+"Impostos": null,
+"Item_ID": "2157322",
+"ObsValor": "",
+"Regime": "BB",
+"Taxas": "0",
+"TaxasBRL": "0",
+"TipoAptoFT": "STD",
+"ValCHD1": "",
+"ValCHD1BRL": "",
+"ValCHD2": "",
+"ValCHD2BRL": "",
+"ValNoiteExDBL": "86",
+"ValNoiteExDBLBRL": "362",
+"ValNoiteExQDL": "",
+"ValNoiteExQDLBRL": "",
+"ValNoiteExSGL": "168",
+"ValNoiteExSGLBRL": "707",
+"ValNoiteExTPL": "72",
+"ValNoiteExTPLBRL": "303",
+"ValTarifaDBL": "456",
+"ValTarifaDBLBRL": "1920",
+"ValTarifaQDL": "",
+"ValTarifaQDLBRL": "",
+"ValTarifaSGL": "752",
+"ValTarifaSGLBRL": "3166",
+"ValTarifaTPL": "396",
+"ValTarifaTPLBRL": "1667"
+},
+{
+"AdCHD1": "",
+"AdCHD1BRL": "",
+"AdCHD2": "",
+"AdCHD2BRL": "",
+"Categoria": "5*",
+"CodMoedaTot": "EUR",
+"Cod_Cidade": "498",
+"DataFinalVal": "29/05/2016",
+"DataInicialVal": "16/05/2016",
+"Desconto": "0.0000",
+"Disponibilidade": null,
+"HotelFc": "Dom Pedro Palace ",
+"ID": "54802",
+"ImpostoCHD1": null,
+"ImpostoCHD1BRL": null,
+"ImpostoCHD2": null,
+"ImpostoCHD2BRL": null,
+"ImpostoDBL": null,
+"ImpostoDBLBRL": null,
+"ImpostoQDL": null,
+"ImpostoQDLBRL": null,
+"ImpostoSGL": null,
+"ImpostoSGLBRL": null,
+"ImpostoTPL": null,
+"ImpostoTPLBRL": null,
+"Impostos": null,
+"Item_ID": "2157323",
+"ObsValor": "",
+"Regime": "BB",
+"Taxas": "0",
+"TaxasBRL": "0",
+"TipoAptoFT": "STD",
+"ValCHD1": "",
+"ValCHD1BRL": "",
+"ValCHD2": "",
+"ValCHD2BRL": "",
+"ValNoiteExDBL": "112",
+"ValNoiteExDBLBRL": "472",
+"ValNoiteExQDL": "",
+"ValNoiteExQDLBRL": "",
+"ValNoiteExSGL": "206",
+"ValNoiteExSGLBRL": "867",
+"ValNoiteExTPL": "102",
+"ValNoiteExTPLBRL": "429",
+"ValTarifaDBL": "531",
+"ValTarifaDBLBRL": "2236",
+"ValTarifaQDL": "",
+"ValTarifaQDLBRL": "",
+"ValTarifaSGL": "864",
+"ValTarifaSGLBRL": "3637",
+"ValTarifaTPL": "486",
+"ValTarifaTPLBRL": "2046"
+}
+]
+}
+]
+}
